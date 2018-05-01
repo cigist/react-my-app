@@ -72,7 +72,7 @@ class App extends Component {
         </p>
         <div>
           <button className="Btn-custom">SUBMIT</button>
-          <Button color="danger">Danger!</Button>
+          <Button color="danger" size="sm">Danger!</Button>
         </div>
         <div>
           <Form>

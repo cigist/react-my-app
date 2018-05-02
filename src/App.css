@@ -24,6 +24,10 @@
 .Btn-custom {
   background-color: blueviolet;
 }
+.table-cutome {
+  border: 2px;
+  border-color: aqua;
+}
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
